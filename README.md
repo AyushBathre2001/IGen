@@ -8,6 +8,11 @@ IGen is an invoice generator web application made using MERN stack that generate
 - Save data
 
 ## Screenshots
+![ig01](https://user-images.githubusercontent.com/97656404/213099435-01a6c12b-cfb9-499c-842f-5371b4d2147c.png)
+![ig02](https://user-images.githubusercontent.com/97656404/213099448-2f0ab947-eb4b-4e7f-b9aa-8c9718029aa6.png)
+![ig03](https://user-images.githubusercontent.com/97656404/213099455-822e2b41-e7bb-41f8-acf8-020b82b716a6.png)
+![ig04](https://user-images.githubusercontent.com/97656404/213099463-309eb4dc-fa41-4602-844c-2509bacb27f7.png)
+![ig05](https://user-images.githubusercontent.com/97656404/213099477-a1635daa-092d-4426-8a9e-305d956f341c.png)
 
 
 ## Tech Stack
